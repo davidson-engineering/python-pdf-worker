@@ -6,3 +6,4 @@ dist/
 runtime/ingest/*.pdf
 runtime/output/*.pdf
 runtime/logs/*.log*
+.pytest_cache/
